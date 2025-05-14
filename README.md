@@ -5,3 +5,7 @@ Zafarnejad R, et al. Reducing Substance Use-Related Harms: A Simulation-Optimiza
 
 ## Overview
 This study presents a novel simulation-optimization framework that integrates agent-based modeling (ABM) with mathematical optimization to inform the design and allocation of harm reduction vending machines (HRVMs). The model evaluates how different combinations of naloxone kits, fentanyl test strips (FTS), and safer injection kits can reduce the burden of overdose, HIV, and HCV in various policy scenarios, including local variations in fentanyl prevalence and willingness to engage with harm reduction tools.
+
+## Citation
+If you use this framework in your work, please cite:
+Zafarnejad R, et al. Reducing Substance Use-Related Harms: A Simulation-Optimization Framework for the Design and Evaluation of Harm Reduction Vending Machines. (2025). *Medical Decision Making*.
